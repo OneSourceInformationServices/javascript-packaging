@@ -1,0 +1,20 @@
+{
+  "name": "javascript-packaging",
+  "version": "1.0.0",
+  "description": "Handy script to package javascript before pushing to a maven artifact repository",
+  "bin": {
+    "package": "index.js"
+  },
+  "keywords": [
+    "javascript",
+    "artifactory",
+    "script"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^0.14.4",
+    "chalk": "^1.1.0",
+    "commander": "^2.8.1"
+  }
+}
