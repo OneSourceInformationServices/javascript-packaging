@@ -2,6 +2,7 @@
   "name": "javascript-packaging",
   "version": "1.0.0",
   "description": "Handy script to package javascript before pushing to a maven artifact repository",
+  "private": true,
   "bin": {
     "package": "index.js"
   },
